@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "MSX VDP Tester")
-		(date "3/JUL/2026")
-		(rev "WIP")
+		(date "5/JUL/2026")
+		(rev "A")
 		(company "Brett Hallen")
 	)
 	(lib_symbols
@@ -7586,7 +7586,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-64_W15.24mm_Socket_LongPads"
+		(property "Footprint" "Clueless_Engineer:DIPS1905W50P178L5730H420Q64N"
 			(at 60.96 132.08 0)
 			(hide yes)
 			(show_name no)

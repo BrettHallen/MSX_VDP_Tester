@@ -1,0 +1,23 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+131.445,-112.395,90.0,top,A1,,,Arduino_Nano,Arduino Nano,tht
+110.49,-137.16,90.0,top,C1,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+110.49,-118.11,-90.0,top,C2,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+146.05,-83.82,-90.0,top,C3,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+100.33,-133.985,-90.0,top,C4,,,C_Disc_D3.0mm_W1.6mm_P2.50mm,33pF,tht
+100.33,-118.745,90.0,top,C5,,,C_Disc_D3.0mm_W1.6mm_P2.50mm,33pF,tht
+114.427,-137.16,90.0,top,J1,,,DIPS1905W50P178L5730H420Q64N,VDP Under Test,tht
+97.0,-90.0,-90.0,top,J2,,,BarrelJack_Horizontal,+5V In,tht
+97.0,-97.0,90.0,top,J3,,,PinHeader_1x02_P2.54mm_Vertical,Power Passthrough,tht
+153.035,-126.365,0.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10KΩ,tht
+139.065,-80.01,180.0,top,R2,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,470Ω,tht
+139.065,-83.185,180.0,top,R3,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,470Ω,tht
+139.065,-86.36,180.0,top,R4,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,470Ω,tht
+106.68,-89.535,0.0,top,R5,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,470Ω,tht
+106.68,-86.36,0.0,top,R6,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,470Ω,tht
+106.68,-80.01,0.0,top,R7,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,470Ω,tht
+106.68,-83.185,0.0,top,R8,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,470Ω,tht
+139.065,-89.535,180.0,top,R9,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,470Ω,tht
+93.75,-103.75,0.0,top,SW1,,,SW_PUSH_6mm,Test,tht
+149.86,-88.9,90.0,top,U1,,,DIP-16_W7.62mm,74LS595,tht
+120.65,-79.375,0.0,top,U2,,,HDSP-7801,HDSP-7803,tht
+100.33,-123.825,-90.0,top,Y1,,,Crystal_HC49-U_Vertical,21.47MHz,tht

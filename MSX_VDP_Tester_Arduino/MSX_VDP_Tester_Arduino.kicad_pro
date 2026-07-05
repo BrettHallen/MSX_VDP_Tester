@@ -240,7 +240,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "WIP"
+      "sch_revision": "A"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -648,7 +648,7 @@
         "uuid": "991f044e-0cd9-44f3-a63b-b6e3c41ea90f"
       }
     ],
-    "used_designators": "SW1-2,R1-9,A1,C1-5,U1-2,Y1,J1-3",
+    "used_designators": "J1-3,Y1,U1-2,A1,C1-5,R1-9,SW1-2",
     "variants": []
   },
   "sheets": [
