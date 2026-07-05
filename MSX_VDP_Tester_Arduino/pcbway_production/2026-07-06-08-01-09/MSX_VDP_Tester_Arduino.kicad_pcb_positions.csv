@@ -3,8 +3,8 @@
 110.49,-137.16,90.0,top,C1,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
 110.49,-118.11,-90.0,top,C2,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
 146.05,-83.82,-90.0,top,C3,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
-100.33,-133.985,-90.0,top,C4,,,C_Disc_D3.0mm_W1.6mm_P2.50mm,33pF,tht
-100.33,-118.745,90.0,top,C5,,,C_Disc_D3.0mm_W1.6mm_P2.50mm,33pF,tht
+95.23,-128.905,180.0,top,C4,,,C_Disc_D3.0mm_W1.6mm_P2.50mm,33pF,tht
+95.25,-123.825,180.0,top,C5,,,C_Disc_D3.0mm_W1.6mm_P2.50mm,33pF,tht
 114.427,-137.16,90.0,top,J1,,,DIPS1905W50P178L5730H420Q64N,VDP Under Test,tht
 97.0,-90.0,-90.0,top,J2,,,BarrelJack_Horizontal,+5V In,tht
 97.0,-97.0,90.0,top,J3,,,PinHeader_1x02_P2.54mm_Vertical,Power Passthrough,tht
@@ -20,4 +20,4 @@
 93.75,-103.75,0.0,top,SW1,,,SW_PUSH_6mm,Test,tht
 149.86,-88.9,90.0,top,U1,,,DIP-16_W7.62mm,74LS595,tht
 120.65,-79.375,0.0,top,U2,,,HDSP-7801,HDSP-7803,tht
-100.33,-123.825,-90.0,top,Y1,,,Crystal_HC49-U_Vertical,21.47MHz,tht
+101.6,-123.825,-90.0,top,Y1,,,Crystal_HC49-U_Vertical,21.47MHz,tht
